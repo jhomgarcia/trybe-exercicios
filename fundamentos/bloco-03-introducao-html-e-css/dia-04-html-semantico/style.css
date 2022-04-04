@@ -1,0 +1,47 @@
+h1, h3 {
+    text-align: center;
+}
+
+.nav-links li {
+    display: inline-block;
+    
+}
+
+.first {
+    background-color: rgb(235, 200, 84);
+    font-size: 20px;
+    height: 50px;
+    text-align: center;
+    width: 200px;
+    margin-right: 50%;
+    margin-left: 530px;
+}
+
+.second {
+    background-color: rgb(219, 219, 219);
+    font-size: 20px;
+    height: 50px;
+    text-align: center;
+    width: 300px;
+    margin-left: 330px;
+}
+
+.third {
+    background-color: rgb(170, 142, 106);
+    font-size: 20px;
+    height: 50px;
+    text-align: center;
+    width: 300px;
+}
+
+.first-cash {
+    margin-left: 330px;
+}
+
+.second-cash {
+    margin-left: 330px;
+}
+
+.third-cash {
+    margin-left: 330px;
+}
